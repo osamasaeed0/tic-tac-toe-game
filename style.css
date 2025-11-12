@@ -45,6 +45,10 @@ h1{
 }
 .para{
     margin-bottom: -1rem;
+    font-size: 8vmin;}
+    
+.Draw{
+    margin-bottom: -1rem;
     font-size: 8vmin;
 }
 .hide{
